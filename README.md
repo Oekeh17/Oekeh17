@@ -28,11 +28,11 @@ I'm **Oluchi**, a Computer and Information Sciences student building my way thro
 const oluchi = {
   role: "Computer & Information Sciences Student",
   university: "Emeris Newlands University",
-  studentNumber: "ST10434421",
-  modules: ["CONE5112 - Computer Networks", "INSY6112 - Information Systems",
-            "ITTP5112 - IT Professional Practice", "PROG6112 - Programming"],
+  modules: ["Computer Networks", "Information Systems",
+            "IT Professional Practice", "Programming"],
   learning: ["Java", "MySQL"],
-  goal: "Cisco Certifications"
+  goal: "Computer & Network Engineer"
+         "Cisco Certifications"
 };
 ```
 
