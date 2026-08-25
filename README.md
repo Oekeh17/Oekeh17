@@ -1,12 +1,6 @@
-Hi there I'm Oluchi ✨
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20there,%20I'm%20Oluchi%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/></div><div align="center"> <img src="https://github.com/user-attachments/assets/00689f61-01a1-4739-9829-d709e3f32eec" width="230" style="border-radius:50%; margin-top: 10px;" alt="Oluchi"/></div>
 
-🎓Computer and Information Sciences student at Emeris. 
-
-💻Passionate about Computer Networking and Programming.
-
-📖Currently learning Java and MySQL.
-
-📘Interested in getting Cisco Certifications.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2A9DF4&center=true&vCenter=true&width=650&lines=Computer+and+Information+Sciences+student+%40+Emeris;Passionate+about+Networking+%26+Programming;Currently+learning+Java+and+MySQL;Aiming+for+Cisco+Certifications" alt="Typing SVG" /></div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Oekeh17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OluchiEkeh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oekeh17@gmail.com) 
