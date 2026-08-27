@@ -39,10 +39,10 @@ const oluchi = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8b5cf6&height=2&width=100%" width="100%"/>
 
 ## 🏆 Achievements
-
 - 🎖️ **IIE Vega Pencil Achievement Award** — recognized for top of class performance
 - 🏅 Higher Certificate in Creative Development (IIE Vega / The Independent Institute of Education)
 - ⭐ Distinctions in all 8 modules of the Higher Certificate
+- 🎓 Currently serving as **Class Representative** for Computer & Information Sciences, Year 1 (Group 1)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8b5cf6&height=2&width=100%" width="100%"/>
 
